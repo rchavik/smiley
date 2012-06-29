@@ -1,0 +1,3 @@
+# Smiley
+
+[Fix framework defect](http://irc.cakephp.org/logs/link/2609724#message2609734)
