@@ -1,0 +1,13 @@
+.emoji {
+	padding: 0px;
+	margin: 2px;
+	height: 24px;
+	width: 24px;
+	float: left;
+}
+.emoji.smile {
+	background: url(/smiley/img/sprite.png) no-repeat -35px 0px;
+}
+.emoji.disappointed {
+	background: url(/smiley/img/sprite.png) no-repeat -325px 0px;
+}
